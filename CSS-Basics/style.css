@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Macondo&display=swap');
+
+body{
+    background-color: #ffb3ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    font-size: 10px;
+}
+
+h1 {
+    color: hsl(240, 100%, 35%);
+}
+
+h3 {
+    color: darkolivegreen;
+    background-color: rgb(255, 255, 153);
+}
+
+p{
+    font-family: 'Big Shoulders Display', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.8rem;
+}
